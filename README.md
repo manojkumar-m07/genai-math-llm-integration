@@ -16,7 +16,7 @@ You need to create a Python program that can intelligently convert Celsius to Fa
 ### PROGRAM:
 ### DEVELOPED BY : Manojkumar M
 ### REGISTER NO. : 212225040226
-```
+```python
 import os
 import json
 import openai
