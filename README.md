@@ -14,8 +14,8 @@ You need to create a Python program that can intelligently convert Celsius to Fa
 4. **Execute and Display the Result:** Extract the function arguments, execute the Python function, and display the converted temperature in Fahrenheit as the output.
 
 ### PROGRAM:
-### DEVELOPED BY ###: Manojkumar M
-### REGISTER NO.###: 212225040226
+### DEVELOPED BY : Manojkumar M
+### REGISTER NO. : 212225040226
 ```
 import os
 import json
